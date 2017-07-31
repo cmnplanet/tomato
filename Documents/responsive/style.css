@@ -113,7 +113,7 @@ header{
 	#sidebar_content{
 		display: flex;
 		flex-direction: column;
-		margin: 0 0 0 20px;
+
 		flex-wrap: nowrap;
 
 	}
